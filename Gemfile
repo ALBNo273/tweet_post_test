@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'twitter'
+gem 'minimum-omniauth-scaffold'
+gem 'haml'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.2'
